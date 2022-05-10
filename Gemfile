@@ -57,3 +57,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rakuten_web_service'
 gem 'byebug'
 gem 'devise'
+gem 'dotenv-rails'
